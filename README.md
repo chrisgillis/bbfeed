@@ -8,4 +8,4 @@ Polls your teams bitbucket feed for new commits and pretty prints to terminal
 ```cd hgfeed
 go get
 go build
-./hgfeed url-to-feed
+./hgfeed url-to-feed```
