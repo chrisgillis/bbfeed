@@ -3,6 +3,7 @@ bbfeed
 
 Polls your teams bitbucket feed for new commits and pretty prints to terminal
 
+![Screenshot](http://i.imgur.com/v0h3gKy.png)
 
 # Installation
 
