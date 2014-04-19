@@ -45,7 +45,7 @@ func main() {
     // Poll the feed every x minutes
 
     if len(os.Args) < 2 {
-        fmt.Printf("Usage: hgfeed url-to-feed\n")
+        fmt.Printf("Usage: bbfeed url-to-feed\n")
         os.Exit(1)
     }
 
